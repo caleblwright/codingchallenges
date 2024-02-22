@@ -21,7 +21,7 @@ function withinRows(j) {
 }
 
 function setup() {
-  createCanvas(1900, 1000);
+  createCanvas(1900, 900);
   colorMode(HSB, 360, 255, 255);
   cols = width / w;
   rows = height / w;
